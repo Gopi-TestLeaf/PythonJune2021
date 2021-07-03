@@ -1,0 +1,1 @@
+Python was 1 conceived in the late 1980s by Guido van Rossum at Centrum 10Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL, capable of 200exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989.
